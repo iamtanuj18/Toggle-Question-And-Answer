@@ -9,10 +9,10 @@ const Question = ({ id, title, info }) => {
         <header key={id}>
           <h4>{title}</h4>
           <button className="btn" onClick={() => setToggle(!toggle)}>
-            {toggle ? <AiOutlinePlus /> : <AiOutlineMinus />}
+            {toggle ?   <AiOutlineMinus />:<AiOutlinePlus />}
           </button>
         </header>
-        <p>{toggle ? "" : info}</p>
+        <p>{toggle ? info : "" }</p>
       </article>
     </>
   );
