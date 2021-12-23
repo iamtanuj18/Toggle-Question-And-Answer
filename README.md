@@ -5,6 +5,8 @@
 ![](./idea.png);
 
 #### React Icons
+React icons can be installed using the npm as mentioned below, it allows us to use number of icons from different libraries like font awesome. 
+
 
 [react icons](https://react-icons.github.io/react-icons/)
 
