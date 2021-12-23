@@ -1,4 +1,5 @@
 #### Idea from 
+A basic toggle component that can be used in feedback section or in any other sections of a React app. 
 
 [uidesigndaily](https://uidesigndaily.com/posts/sketch-accordion-website-day-1175)
 
